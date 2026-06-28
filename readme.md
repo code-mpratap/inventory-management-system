@@ -77,3 +77,5 @@ http://localhost:5173
 ## Author
 
 Mahendra Pratap Singh
+
+Live Link: https://inventory-management-system-alpha-ebon.vercel.app/
